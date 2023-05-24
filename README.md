@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @rajaseg
-- 👀 I’m interested in learning new things...in other words ***Zeal to learn new things***
-- 🌱 I’m currently learning ...***Caddy***, especially deploying in ***docker compose*** and trying to deploy ***open source apps*** behind it
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Rajasekhar, @rajaseg
+- 14+ Yrs of IT Experience with a diverse skill set
+- Cloud Professional (Azure, AWS)
+- Good experience with ETL tools like CloudQuery, Kestra, Airbyte and Meltano
+- Good experience with ELK Stack, Meilisearch and Typesense
+- Good experience with Proxy Servers like Caddy Server, NGINX and Traefik
+- Good experience in setting up Infrastructure using Docker Swarm to host micro-services using GlusterFS replicated volume for data high availability
+- Good experience on Node.JS, React.JS, Instncesearch.JS
+- Maintenance of Virtual Infrastructure of SharePoint Server 2013 Farm
+- Quick adaptability and ability to learn new technologies
+- Good experience with WordPress (Responsive, Fast Loading and SEO Friendly Websites)
 - 📫 How to reach me ... rajaseg@gmail.com
 
 <!---
